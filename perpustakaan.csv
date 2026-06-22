@@ -1,0 +1,4 @@
+id_buku,judul,penulis,tahun,status,peminjam,waiting_list
+B001,Python Dasar,Andi,2022,Tersedia,,
+B003,Basis Data,Cahyo,2023,Tersedia,,
+D301,pemograman dasar,lingga,2025,Tersedia,,
